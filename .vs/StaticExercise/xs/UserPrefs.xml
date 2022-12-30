@@ -2,16 +2,18 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="StaticExercise/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StaticExercise/TempConverter.cs">
     <Files>
-      <File FileName="StaticExercise/Program.cs" Line="26" Column="1" />
-      <File FileName="StaticExercise/TempConverter.cs" Line="18" Column="1" />
+      <File FileName="StaticExercise/Program.cs" Line="20" Column="1" />
+      <File FileName="StaticExercise/TempConverter.cs" Line="15" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StaticExercise" expanded="True">
-            <Node name="StaticExercise" expanded="True" />
+            <Node name="StaticExercise" expanded="True">
+              <Node name="TempConverter.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

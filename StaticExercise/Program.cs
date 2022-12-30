@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            //Scenario to test converting the temperatures
             Console.WriteLine("Hello Peeps!");
             Console.WriteLine($"Please enter your Fahrenheit temperature.");
             var convToCelsius = double.Parse(Console.ReadLine());
